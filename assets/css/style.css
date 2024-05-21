@@ -610,6 +610,10 @@ section {
   transform: translateX(5px);
 }
 
+.about img {
+  border-radius: 25%;
+}
+
 /*--------------------------------------------------------------
 # Values
 --------------------------------------------------------------*/
@@ -712,7 +716,7 @@ section {
 }
 
 .features .feture-tabs {
-  margin-top: 120px;
+  margin-top: 30px;
 }
 
 .features .feture-tabs h3 {
@@ -802,6 +806,10 @@ section {
 .features .feature-icons .content .icon-box p {
   font-size: 15px;
   color: #848484;
+}
+
+.features .icon {
+  margin-right: 1rem;
 }
 
 /*--------------------------------------------------------------
